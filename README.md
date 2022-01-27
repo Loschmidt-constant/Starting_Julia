@@ -21,7 +21,7 @@
 - Runebook.dev: [Julia 1.6 (日本語) ](https://runebook.dev/ja/docs/julia/-index-) (Julia 1.6の日本語翻訳された記事一覧)
   - Runebook.dev: [ユニコード入力](https://runebook.dev/ja/docs/julia/manual/unicode-input/index) (Juliaのユニコード入力可能な文字一覧の記事)
 
-- [物理で使う数値計算入門：Julia言語による簡単数値計算](https://github.com/cometscome/Julianotes/blob/master/julianote.md) （原研 [永井佑紀](http://webpark1378.sakura.ne.jp/nagai/)先生のノート）
+- [物理で使う数値計算入門：Julia言語による簡単数値計算](https://github.com/cometscome/Julianotes/blob/master/julianote.md) （原子力研究開発機構: [永井佑紀](http://webpark1378.sakura.ne.jp/nagai/)先生のノート）
 
 - Qiita: [Juliaで最低限やっていくための配列操作まとめ](https://qiita.com/A03ki/items/007be353411d19952ef7) （@A03ki氏の記事）
 
